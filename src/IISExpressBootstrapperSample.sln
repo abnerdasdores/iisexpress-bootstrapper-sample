@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{453925
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISExpressBootstrapperSample.Web", "IISExpressBootstrapperSample.Web\IISExpressBootstrapperSample.Web.csproj", "{0A0C40D7-00D2-445D-95DA-781EE6E8B09E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISExpressBootstrapperSample.Web.Tests", "IISExpressBootstrapperSample.Web.Tests\IISExpressBootstrapperSample.Web.Tests.csproj", "{88930331-0385-40E2-9D92-921B67C3C4F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +24,10 @@ Global
 		{0A0C40D7-00D2-445D-95DA-781EE6E8B09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A0C40D7-00D2-445D-95DA-781EE6E8B09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A0C40D7-00D2-445D-95DA-781EE6E8B09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88930331-0385-40E2-9D92-921B67C3C4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88930331-0385-40E2-9D92-921B67C3C4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88930331-0385-40E2-9D92-921B67C3C4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88930331-0385-40E2-9D92-921B67C3C4F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
